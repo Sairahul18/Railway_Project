@@ -1,0 +1,1 @@
+This project is a Python-based railway ticket booking system, which allows users to create accounts, log in, and book train tickets between predefined destinations. The system provides essential functionalities like account creation, train selection, passenger information entry, and ticket booking.
